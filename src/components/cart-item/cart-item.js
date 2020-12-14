@@ -1,6 +1,5 @@
 import React from 'react';
-import { connect } from 'react-redux';
-import cartIcon from '../cart-icon/cart-icon';
+
 import './cart-item-styles.scss';
 
 const CartItem = ({ item: { imageUrl, price, name, quantity } }) => {

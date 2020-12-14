@@ -1,4 +1,4 @@
-import CartItem from '../../components/cart-item/cart-item';
+//import CartItem from '../../components/cart-item/cart-item';
 import CartActionTypes from './cart.types';
 import { addItemToCart, removeItemFromCart } from './cart.utils';
 
